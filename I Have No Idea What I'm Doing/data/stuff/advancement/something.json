@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "eat_endstone":{
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": ["minecraft:end_stone"]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "stuff:commands/zerogravitem"
+  }
+}

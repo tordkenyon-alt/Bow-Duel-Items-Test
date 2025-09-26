@@ -1,0 +1,1 @@
+effect give @a weakness infinite 255 true
